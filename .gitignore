@@ -1,0 +1,7 @@
+﻿.venv/
+realwaste.zip
+realwaste/
+__pycache__/
+.ipynb_checkpoints/
+waste_classifier_efficientnet_b0.pt
+waste_classifier_8class.pt
